@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pwd-generator/static/css/main.39b6d906.css",
+    "main.js": "/pwd-generator/static/js/main.c5fb18b5.js",
+    "static/js/453.f5832c0b.chunk.js": "/pwd-generator/static/js/453.f5832c0b.chunk.js",
+    "index.html": "/pwd-generator/index.html",
+    "main.39b6d906.css.map": "/pwd-generator/static/css/main.39b6d906.css.map",
+    "main.c5fb18b5.js.map": "/pwd-generator/static/js/main.c5fb18b5.js.map",
+    "453.f5832c0b.chunk.js.map": "/pwd-generator/static/js/453.f5832c0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39b6d906.css",
+    "static/js/main.c5fb18b5.js"
+  ]
+}
